@@ -16,3 +16,6 @@ function forLoop(arrayArgument) {
 // [" I am 1 strange loop", "I am 2 strange loops"]
 var Looping = forLoop([]);
 console.log(Looping);
+function whileLoop(numberargument){
+  while ()
+}
