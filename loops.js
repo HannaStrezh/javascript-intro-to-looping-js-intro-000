@@ -1,15 +1,15 @@
-function forLoop(array) {
+function forLoop(arrayArgument) {
       for (let i=0; i<25; i++){
         if(i===1){
-          array.push("I am 1 strange loop.");
+          arrayArgument.push("I am 1 strange loop.");
           
         } else {
-          array.push(`I am ${i} strange loops.`);
+          arrayArgument.push(`I am ${i} strange loops.`);
         }
         
       }
       
-      return array;
+      return arrayArgument;
 }
 
 
