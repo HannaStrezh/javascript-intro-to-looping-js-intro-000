@@ -1,1 +1,3 @@
-function forLoop = new Array()
+function forLoop() {
+
+}
