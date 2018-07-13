@@ -17,5 +17,11 @@ function forLoop(arrayArgument) {
 var Looping = forLoop([]);
 console.log(Looping);
 function whileLoop(numberargument){
-  while ()
+  while (){
+    console.log();
+  }
+}
+while(time<4){
+  console.log(time);
+  time++;
 }
