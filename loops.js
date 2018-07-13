@@ -17,11 +17,10 @@ function forLoop(arrayArgument) {
 var Looping = forLoop([]);
 console.log(Looping);
 function whileLoop(numberargument){
-  while (){
-    console.log();
+  var countdown = numberargument;
+  while (countdown>0){
+    console.log("done");
   }
 }
-while(time<4){
-  console.log(time);
-  time++;
-}
+
+whileloop(9);
